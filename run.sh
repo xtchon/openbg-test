@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 DATA_DIR="data"
 
-MODEL_DIR="/*******/bert-base-chinese"
+MODEL_DIR="/bert_pretrain/bert-base-chinese"
 OUTPUT_DIR="output/save_dict/"
 PREDICT_DIR="data/"
 MODEL_TYPE="PMI"
